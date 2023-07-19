@@ -21,6 +21,7 @@ The repository is organized as follows:
 ## Getting Started
 
 To get started with the course, you will need to have the following software and tools installed:
+![Python](/path/to/python_image.png)
 
 - Python 3.x
 - Jupyter Notebook
@@ -40,14 +41,4 @@ If you have any questions or need further assistance, please feel free to reach 
 
 Contributions to this repository are not currently open. This repository is maintained by the course instructors to provide a centralized location for course materials.
 
-## License
 
-This repository is provided under the [MIT License](LICENSE). Feel free to refer to the license file for more details.
-
-## Acknowledgments
-
-- Image credits: [Unsplash](https://unsplash.com) and [Pexels](https://www.pexels.com)
-
-For any further questions or clarifications, please contact the course instructors or refer to the course documentation.
-
-Happy learning and enjoy the PW Data Science Course Master 2.0!
