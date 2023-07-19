@@ -29,6 +29,13 @@ To get started with the course, you will need to have the following software and
 
 Once you have the necessary setup, you can clone this repository and explore the different folders and files for the assignments and course content.
 
+## Contact Information
+
+If you have any questions or need further assistance, please feel free to reach out to me:
+
+- Email: ombade364@gmail.com
+- LinkedIn: [Om Bade](https://www.linkedin.com/in/om-bade-1633081a5/)
+
 ## Contributions
 
 Contributions to this repository are not currently open. This repository is maintained by the course instructors to provide a centralized location for course materials.
@@ -36,6 +43,10 @@ Contributions to this repository are not currently open. This repository is main
 ## License
 
 This repository is provided under the [MIT License](LICENSE). Feel free to refer to the license file for more details.
+
+## Acknowledgments
+
+- Image credits: [Unsplash](https://unsplash.com) and [Pexels](https://www.pexels.com)
 
 For any further questions or clarifications, please contact the course instructors or refer to the course documentation.
 
