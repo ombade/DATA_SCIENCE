@@ -1,0 +1,35 @@
+INFO:root:log this line of executation
+INFO:root:this is my print
+INFO:root:this is my info logging 
+ERROR:root:this is my error msg
+CRITICAL:root:this is my critical
+INFO:root:started the file 
+INFO:root:The value of i is 1
+INFO:root:The value of i is 2
+INFO:root:The value of i is 3
+INFO:root:The value of i is 4
+INFO:root:The value of i is 5
+INFO:root:The value of i is 6
+INFO:root:The value of i is 7
+INFO:root:The value of i is 8
+INFO:root:The value of i is 9
+INFO:root:started the file 
+INFO:root:The value of i is 1
+INFO:root:The value of i is 2
+INFO:root:The value of i is 3
+INFO:root:The value of i is 4
+INFO:root:The value of i is 5
+INFO:root:The value of i is 6
+INFO:root:The value of i is 7
+INFO:root:The value of i is 8
+INFO:root:The value of i is 9
+INFO:root:started the file 
+INFO:root:The value of i is 1
+INFO:root:The value of i is 2
+INFO:root:The value of i is 3
+INFO:root:The value of i is 4
+INFO:root:The value of i is 5
+INFO:root:The value of i is 6
+INFO:root:The value of i is 7
+INFO:root:The value of i is 8
+INFO:root:The value of i is 9
