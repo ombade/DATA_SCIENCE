@@ -161,3 +161,72 @@ table tr:nth-child(2n+1) {
     overflow: visible;
   }
 }
+
+
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+.calculator {
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+}
+
+.display {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 10px;
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  margin-bottom: 10px;
+  font-size: 24px;
+}
+
+.display input {
+  border: none;
+  outline: none;
+  width: 100%;
+  text-align: right;
+}
+
+.buttons {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+}
+
+button {
+  font-size: 24px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  padding: 10px;
+  cursor: pointer;
+  background-color: #f8f8f8;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #eee;
+}
+
+button.operator {
+  background-color: #f0f0f0;
+  font-weight: bold;
+}
+
+button.clear {
+  color: red;
+}
+
+button.equal {
+  color: blue;
+}
