@@ -32,5 +32,5 @@ while True:
         engine.runAndWait()
 
     repeat = input("do you want to ask more questions?: ")
-    if repeat in ["no","No","NO"]:
+    if repeat in ["no","No","No"]:
         break
