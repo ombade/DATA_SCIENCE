@@ -1,0 +1,34 @@
+Parameter,Specifications
+Lunar Polar Orbit,From 170 x 36500 km to lunar polar orbit
+Mission life,"Carrying Lander Module & Rover upto ~100 x 100 km launch injection. Subsequently, operation of experimental payload for a period of 3 to 6 months."
+Structure,Modified version of I-3 K
+Dry Mass,448.62 kg (including pressurant)
+Propellant Mass,1696.39 kg
+Total PM Mass,2145.01 kg
+Power Generation,"738 W, Summer solistices and with bias"
+Communication,S-Band Transponder (TTC) – with IDSN
+Attitude Sensors,"CASS, IRAP, Micro star sensor"
+Propulsion System,Bi-Propellant Propulsion System (MMH + MON3)
+undefined,undefined
+# Lander Module dataframe,undefined
+undefined,undefined
+Parameter,Specifications
+-,-
+Mission life,1 Lunar day (14 Earth days)
+Mass,1749.86 kg including Rover
+Power,738 W (Winter solstice)
+Payloads,3
+Dimensions (mm3),2000 x 2000 x 1166
+Communication,"ISDN, Ch-2 Orbiter, Rover"
+Landing site,"69.367621 S, 32.348126 E"
+undefined,undefined
+# Rover dataframe,undefined
+undefined,undefined
+Parameter,Specifications
+-,-
+Mission Life,1 Lunar day
+Mass,26 kg
+Power,50 W
+Payloads,2
+Dimensions (mm3),917 x 750 x 397
+Communication,Lander
